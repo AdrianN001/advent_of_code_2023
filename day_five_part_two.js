@@ -72,7 +72,6 @@ const plant_the_seed = (seed, almanac) => {
                 seed = new_seed;
                 return false;
             }
-            
             return true;
         })
     }
