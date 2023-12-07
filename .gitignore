@@ -5,3 +5,7 @@ input
 .vscode
 
 a.out
+
+*.json
+
+node_modules
